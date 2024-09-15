@@ -1,5 +1,3 @@
-# PRODIGY_FS_02
-
 # Employee Management System
 
 Note: this is a repository of Employee Management System Frontend. the repository of the backend is available here: https://github.com/fenil29/employee-management-system-backend-node
